@@ -1,2 +1,2 @@
-# Eradicated-Diseases-
+# Eradicated-Diseases-Directory
 Disease Directory Program
